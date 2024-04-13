@@ -1,31 +1,25 @@
-# Daily Workout Planner
+Introduction:
+This project was developed as an assignment for Dacoid Digital.
 
-This project was created as an  assignment for Dacoid Digital.
+Technologies Used:
+HTML
+CSS
+JavaScript
+Framework Utilized
+Bootstrap
 
-## Technologies Used
+Usage-
+Home Page: The index.html serves as the main page where you can start your navigation.
 
-- HTML
-- CSS
-- JavaScript
+Calendar: To schedule workouts, visit the views/calendar.html.
+Adding Activities: You can add new activities directly within the calendar page.
 
-## Framework Used
+Display: The scheduled activities will be visible both in the calendar and on the index.html page under "Upcoming Workouts."
 
-- Bootstrap
+Deployment
+Access the deployed website [here](https://rruchii123.github.io/Dacoid-Digital/)
 
-## Usage
-
-- The `index.html` serves as the home page. You can navigate to the calendar to schedule workouts.
-- Schedule new activities in the `views/calendar.html`.
-- The scheduled activities will be displayed both in the `views/calendar.html` and `index.html (under the Upcoming Workouts).
-
-## Deployment
-
-You can access the deployed website [here](file:///C:/Users/dubey/dacoid%20assignment/dacoid/index.html)
-
-## Acknowledgements
-
-- Bootstrap for CSS styling
-- FontAwesome for icons
-- Chart.js for graphical representation
-
-"Vaishnavi's endeavor focuses on delivering a user-friendly platform for monitoring daily activities and workouts. Feel invited to explore and contribute to its evolution!"
+Acknowledgements
+CSS Styling: Bootstrap
+Icons: FontAwesome
+Graphical Representation: Chart.js
