@@ -1,5 +1,5 @@
 Introduction:
-This project was developed as an assignment for Dacoid Digital.
+This project was developed as an assignment for Dacoid Digital by Vaishnavi Dubey.
 
 Technologies Used:
 HTML
